@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "New Update Coming",
+  "Description": "ကျေးဇူးပြုပြီး New updateကိုသာဒေါင်းပေးပါရန်",
   "MainTextButton": "Update",
-  "Cancelable": "true",
+  "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "www.example.com",
+  "DownloadLink": "https://download1487.mediafire.com/vnq5i1nwi12g/3xt29u9q8y6381w/2%F0%9D%97%97+%F0%9D%97%A3%F0%9D%97%A2%F0%9D%97%A6.apk",
   "Version": "3.0"
 }
